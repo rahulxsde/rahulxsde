@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulxsde)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-![Coding GIF](https://media.giphy.com/media/SWoSkN6DxTszqKSJqv/giphy.gif)
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687atE/giphy.gif)
 
 </div>
 
@@ -26,7 +26,7 @@ Application Support Engineer with **1.5+ years of hands-on experience** in the B
 
 <div align="center">
 
-![Problem Solving](https://media.giphy.com/media/l3q2K6YfJ3n2jT9QQ/giphy.gif) ![Optimization](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Debugging](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 </div>
 
@@ -79,7 +79,7 @@ Application Support Engineer with **1.5+ years of hands-on experience** in the B
 
 <div align="center">
 
-![Tech Stack](https://media.giphy.com/media/2IvFvW3Q4pTAl7gn81/giphy.gif)
+![DevOps](https://media.giphy.com/media/XAxylRMCdpbEWK1P7q/giphy.gif)
 
 </div>
 
@@ -92,7 +92,7 @@ Application Support Engineer with **1.5+ years of hands-on experience** in the B
 
 <div align="center">
 
-![Support](https://media.giphy.com/media/3ohzdKZ5I1xCmZvDPi/giphy.gif)
+![Support](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 </div>
 
@@ -129,7 +129,7 @@ Application Support Engineer with **1.5+ years of hands-on experience** in the B
 
 <div align="center">
 
-![Learning](https://media.giphy.com/media/l0HlDtKPoYJhFAKXa/giphy.gif)
+![Learning](https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif)
 
 </div>
 
@@ -145,7 +145,7 @@ Application Support Engineer with **1.5+ years of hands-on experience** in the B
 
 <div align="center">
 
-![Working](https://media.giphy.com/media/3o7TKHr2u2ZLs4zNe0/giphy.gif)
+![Working](https://media.giphy.com/media/2IvFvW3Q4pTAl7gn81/giphy.gif)
 
 </div>
 
@@ -162,7 +162,7 @@ Application Support Engineer with **1.5+ years of hands-on experience** in the B
 
 **Total Experience:** 1.5+ Years | **BFSI Focus:** Core Banking & Payment Systems | **Passion:** System Reliability & Performance
 
-![Journey](https://media.giphy.com/media/wTnEID2jdari/giphy.gif)
+![Rocket](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 </div>
 
@@ -189,7 +189,7 @@ I'm always interested in collaborating on projects related to:
 
 <div align="center">
 
-![Footer](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![Celebration](https://media.giphy.com/media/l0HlQaQ6gUvD4drlBQ/giphy.gif)
 
 **⭐ Feel free to star this profile if you found it helpful!**
 
