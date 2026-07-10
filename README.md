@@ -10,6 +10,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulxsde)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
+![Coding GIF](https://media.giphy.com/media/SWoSkN6DxTszqKSJqv/giphy.gif)
+
 </div>
 
 ---
@@ -21,6 +23,12 @@ Application Support Engineer with **1.5+ years of hands-on experience** in the B
 ---
 
 ## 💡 What I Do
+
+<div align="center">
+
+![Problem Solving](https://media.giphy.com/media/l3q2K6YfJ3n2jT9QQ/giphy.gif) ![Optimization](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+</div>
 
 - 🔧 **Troubleshoot & Debug** - Identify and resolve production issues with minimal downtime
 - 📊 **Performance Optimization** - Analyze system metrics and improve application efficiency
@@ -38,6 +46,7 @@ Application Support Engineer with **1.5+ years of hands-on experience** in the B
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Databases**
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -68,12 +77,24 @@ Application Support Engineer with **1.5+ years of hands-on experience** in the B
 ![Compliance](https://img.shields.io/badge/Compliance_&_Audit-D32F2F?style=for-the-badge&logo=security&logoColor=white)
 ![SWIFT](https://img.shields.io/badge/SWIFT_Standards-004B87?style=for-the-badge&logo=bank&logoColor=white)
 
+<div align="center">
+
+![Tech Stack](https://media.giphy.com/media/2IvFvW3Q4pTAl7gn81/giphy.gif)
+
+</div>
+
 ---
 
 ## 📊 Professional Experience
 
 ### **Application Support Engineer** | BFSI Domain
 **Duration:** 1.5+ Years
+
+<div align="center">
+
+![Support](https://media.giphy.com/media/3ohzdKZ5I1xCmZvDPi/giphy.gif)
+
+</div>
 
 **Key Responsibilities:**
 - ✅ Provided 24/7 technical support for mission-critical banking applications
@@ -106,6 +127,12 @@ Application Support Engineer with **1.5+ years of hands-on experience** in the B
 
 ## 🎓 Certifications & Learning
 
+<div align="center">
+
+![Learning](https://media.giphy.com/media/l0HlDtKPoYJhFAKXa/giphy.gif)
+
+</div>
+
 - 📜 **Java Fundamentals** - Core programming concepts
 - 📜 **Database Administration** - Query optimization and management
 - 📜 **Linux Administration** - System operations and security
@@ -114,24 +141,30 @@ Application Support Engineer with **1.5+ years of hands-on experience** in the B
 
 ---
 
-## 📈 GitHub Stats
+## 💼 What I'm Currently Working On
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulxsde&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulxsde&layout=compact&theme=radical)
+![Working](https://media.giphy.com/media/3o7TKHr2u2ZLs4zNe0/giphy.gif)
 
 </div>
-
----
-
-## 💼 What I'm Currently Working On
 
 - 🔍 Enhancing system monitoring and observability
 - 🚀 Learning advanced DevOps practices and Kubernetes orchestration
 - 📊 Building tools for application performance analysis
 - 🔐 Deepening expertise in BFSI security and compliance
+
+---
+
+## 📈 My Journey
+
+<div align="center">
+
+**Total Experience:** 1.5+ Years | **BFSI Focus:** Core Banking & Payment Systems | **Passion:** System Reliability & Performance
+
+![Journey](https://media.giphy.com/media/wTnEID2jdari/giphy.gif)
+
+</div>
 
 ---
 
@@ -148,10 +181,18 @@ I'm always interested in collaborating on projects related to:
 
 **Feel free to reach out for discussions, collaborations, or just a chat!**
 
-[📧 Email](mailto:your-email@example.com) • [💼 LinkedIn](https://linkedin.com/in/rahulxsde) • [🐙 GitHub](https://github.com/rahulxsde)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulxsde)
+[![Email Me](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulxsde)
 
 ---
 
-<sub>Last Updated: July 2026 | Built with ❤️</sub>
+<div align="center">
+
+![Footer](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
+**⭐ Feel free to star this profile if you found it helpful!**
+
+<sub>Last Updated: July 2026 | Built with ❤️ and passion for technology</sub>
 
 </div>
